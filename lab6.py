@@ -1,5 +1,6 @@
 #!/usr/bin/python
 #eric jones
+#code from caleb hoke
 #man72 connected to mcp23017 counter
 # 25 April 2018
 
